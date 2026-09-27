@@ -1,3 +1,4 @@
+#Este codigo sirve para que te de la suma, la resta, la multiplicacion, division, la potencia y la division entera.
 variable1=float(input("Introduce el primer numero "))
 variable2=float(input("Introduce el segundo numero "))
 
