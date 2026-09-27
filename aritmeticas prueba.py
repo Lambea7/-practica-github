@@ -1,4 +1,5 @@
 #Este codigo sirve para que te de la suma, la resta, la multiplicacion, division, la potencia y la division entera.
+#Esto se hara mediante la persiona que tiene que introducir dos valores.
 variable1=float(input("Introduce el primer numero "))
 variable2=float(input("Introduce el segundo numero "))
 
