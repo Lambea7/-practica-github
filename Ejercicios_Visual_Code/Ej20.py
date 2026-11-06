@@ -10,5 +10,3 @@ if num1 and num2 in [1,2,3,4,5,6,7,8,9,10]:
     print("ambos son iguales")
 else: 
    print("Uno o los dos números están fuera de los límites establecidos ")
-
-    
